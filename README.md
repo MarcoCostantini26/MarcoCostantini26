@@ -57,11 +57,11 @@ My main interests include:
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcoCostantini26&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcocostantini26&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCostantini26&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcocostantini26&layout=compact&hide_border=true" />
 </p>
 
 ---
