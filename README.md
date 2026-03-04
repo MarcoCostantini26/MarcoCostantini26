@@ -57,11 +57,9 @@ My main interests include:
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcoCostantini26&show_icons=true" alt="Statistiche GitHub di Marco" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCostantini26&layout=compact" alt="Linguaggi più usati" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DilaverShtini&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DilaverShtini&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
