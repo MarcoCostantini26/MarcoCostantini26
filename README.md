@@ -57,11 +57,11 @@ My main interests include:
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoCostantini26&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCostantini26&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -76,5 +76,5 @@ My main interests include:
 
 ## Contact
 
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/marco-costantini-69ba622a2/)
+- LinkedIn: [https://linkedin.com/in/marco-costantini](https://www.linkedin.com/in/marco-costantini-69ba622a2/)
 - Email: marco.costantini26@gmail.com
