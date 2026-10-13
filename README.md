@@ -59,15 +59,6 @@ My main areas of interest include:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcoCostantini26&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcoCostantini26&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 💻 Featured Projects
 
 - 🔗 **Distributed System Project**  
